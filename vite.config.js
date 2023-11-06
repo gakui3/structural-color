@@ -19,6 +19,7 @@ module.exports = {
   ],
   build: {
     outDir: 'docs',
+    target: 'esnext',
   },
-  base: '/Babylonjs-Bubble/',
+  base: '/structural-color/',
 };
